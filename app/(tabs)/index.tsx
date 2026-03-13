@@ -4,18 +4,13 @@ export default function HomeScreen() {
   return (
     <View style={styles.container}>
       {/* SECTION FOTO */} 
-      <Image 
-        source={{ uri: "https://raw.githubusercontent.com/evtaindra/my-app-test/refs/heads/master/assets/images/gambar22.png" }} 
-        
-         //  bisa juga menggunakan local image
-        //  image: source={require('../assets/images/gambar22.png')}
-
-        style={styles.profilePic} 
-      />
-
+    <Image
+  source={require('../../assets/images/foto2.png')}
+  style={styles.profilePic}
+/>
       {/* SECTION IDENTITAS */}
-      <Text style={styles.name}>Mobile Dev Sensei</Text>
-      <Text style={styles.nim}>NIDN: 14118302</Text>
+      <Text style={styles.name}>Sache Deep Singh</Text>
+      <Text style={styles.nim}>NIM: 243303621202</Text>
 
       {/* SECTION BIO */}
       <View style={styles.bioCard}>
