@@ -1,10 +1,9 @@
-![alt text](https://github.com/sachesingh3-a11y/Tugas-Pertemuan2-Praktek-Pemrograman-Mobile-React-Native/blob/main/assets/images/screenshot.jpeg?raw=true)
 # Project: Kartu Nama Digital 🪪
 
 Tugas praktikum Pertemuan 2 - Pemrograman Mobile.
 
 ## 📸 Screenshots
-![Preview Aplikasi](link_ke_foto_lo.png)
+![Preview Aplikasi]![alt text](https://github.com/sachesingh3-a11y/Tugas-Pertemuan2-Praktek-Pemrograman-Mobile-React-Native/blob/main/assets/images/screenshot.jpeg?raw=true)
 
 ## 🛠️ Tech Stack
 - **Framework:** React Native (Expo SDK 50)
