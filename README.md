@@ -1,3 +1,4 @@
+![alt text](https://github.com/sachesingh3-a11y/Tugas-Pertemuan2-Praktek-Pemrograman-Mobile-React-Native/blob/main/assets/images/screenshot.jpeg?raw=true)
  HEAD
 # 🪪 Kartu Identitas Digital Mahasiswa
 
