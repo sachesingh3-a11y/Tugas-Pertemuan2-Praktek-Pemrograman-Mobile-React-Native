@@ -9,8 +9,7 @@ Aplikasi mobile sederhana untuk menampilkan identitas diri dan motivasi pribadi,
 Tugas praktikum Pertemuan 2 - Pemrograman Mobile.
  3f6a667bb1631658677f10fb76a4de8204cc7d2d
 
-## 📸 Screenshots
-![Preview Aplikasi](assets/images/screenshot.png)
+
 
 ## 🛠️ Tech Stack
  HEAD
